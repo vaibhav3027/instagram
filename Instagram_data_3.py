@@ -3,6 +3,7 @@ import pandas as pd
 from dotenv import load_dotenv
 
 
+load_dotenv()
 print("Start")
 time.sleep(3)
 timer = 100
